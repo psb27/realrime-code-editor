@@ -4,7 +4,7 @@
   "description": "code editor server",
   "main": "server.js",
   "scripts": {
-    "start": "npm server.js",
+    "start": "npm server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Prateek Singh",
