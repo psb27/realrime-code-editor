@@ -1,0 +1,19 @@
+{
+  "name": "real-time-code-editor-server",
+  "version": "1.0.0",
+  "description": "code editor server",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prateek Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.2",
+    "socket.io-client": "^4.5.2"
+  }
+}
